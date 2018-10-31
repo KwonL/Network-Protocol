@@ -14,6 +14,7 @@ NS_LOG_COMPONENT_DEFINE ("FirstScriptExample");
 int
 main (int argc, char *argv[])
 {
+  // Select protocol between Node2 and Node3
   bool csma = true;
   std::string node4DataRate = "1Mbps";
   CommandLine cmd;
@@ -38,6 +39,7 @@ main (int argc, char *argv[])
 
   // For node 2 and node 3
   NetDeviceContainer devices_2;
+  // Install selected protocol
   if (csma == true) {
     CsmaHelper second_2_third;
     second_2_third.SetChannelAttribute("DataRate", StringValue("2Mbps"));
@@ -67,6 +69,7 @@ main (int argc, char *argv[])
   InternetStackHelper stack;
   stack.Install (nodes);
 
+  // Assign ip address. variate subnet for each channel
   Ipv4AddressHelper address;
   address.SetBase ("10.1.1.0", "255.255.255.0");
   Ipv4InterfaceContainer interfaces_1 = address.Assign (devices_1);

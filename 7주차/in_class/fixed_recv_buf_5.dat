@@ -1,0 +1,1330 @@
+Waf: Entering directory `/home/kwonl/tools/ns-allinone-3.26/ns-3.26/build'
+Waf: Leaving directory `/home/kwonl/tools/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.623s)
+5.12564	536
+5.25677	1072
+5.3939	1608
+5.53617	2144
+5.68529	2680
+5.68718	3216
+5.84144	3752
+5.84504	4288
+5.84693	4824
+6.00803	5360
+6.01334	5896
+6.01523	6432
+6.01977	6968
+6.18867	4824
+6.19475	5360
+6.19569	5896
+6.19664	6432
+6.19929	6968
+6.20024	7504
+6.20118	8040
+6.20726	8576
+6.2082	9112
+6.38206	9648
+6.383	10184
+6.38566	3216
+6.59145	2948
+6.5924	3484
+6.59334	4020
+6.61654	4556
+6.80238	5092
+6.80846	1340
+7.03291	1554
+7.26592	1738
+7.50748	1903
+7.70843	2053
+7.75856	2192
+8.01896	2323
+8.02084	2446
+8.29152	2563
+8.29512	2675
+8.57435	2782
+8.58137	2885
+8.86916	2984
+8.87961	3080
+9.08056	3173
+9.17862	3263
+9.19078	3351
+9.50083	3436
+9.50271	3519
+9.51659	3600
+9.83691	3679
+9.84051	3757
+9.8578	3833
+10.1884	3907
+10.1937	3980
+10.2144	4052
+10.4154	4122
+10.5562	4191
+10.565	4259
+10.5874	4326
+10.9403	4392
+10.9524	4457
+10.9766	4521
+10.9784	4584
+11.3433	4646
+11.3589	4707
+11.3847	4768
+11.3883	4828
+11.7651	4887
+11.7841	4945
+11.8117	5003
+11.817	5060
+12.018	5116
+12.2085	5172
+12.2292	5227
+12.2602	5281
+12.2672	5335
+12.6714	5388
+12.6956	5441
+12.7283	5493
+12.7387	5545
+12.9397	5596
+13.1576	5647
+13.1834	5697
+13.2195	5747
+13.2317	5796
+13.4326	5845
+13.6407	5894
+13.6669	5942
+13.6945	5990
+13.734	6037
+13.7479	6084
+14.156	6131
+14.1993	6177
+14.2012	6223
+14.2304	6269
+14.2734	6314
+14.2907	6359
+14.7566	6404
+14.7602	6448
+14.7911	6492
+14.8375	6536
+14.8583	6579
+15.0592	6622
+15.3405	6665
+15.3458	6708
+15.3785	6750
+15.4283	6792
+15.4524	6834
+15.6534	6876
+15.8615	6917
+15.9527	6958
+15.9597	6999
+15.9941	7040
+16.0474	7080
+16.075	7120
+16.483	7160
+16.5931	7200
+16.6018	7239
+16.6037	7278
+16.6398	7317
+16.6965	7356
+16.7275	7395
+17.2618	7433
+17.274	7471
+17.2776	7509
+17.3154	7547
+17.3772	7585
+17.4099	7622
+17.6109	7659
+17.9623	7696
+17.9779	7733
+17.9832	7770
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+18.0228	7806
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+18.0897	7842
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of tcp is : 18928bytes
+18.1241	7878
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+18.3251	7914
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+18.5332	7950
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+18.6963	7986
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+18.7153	8021
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+18.7223	8056
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+18.7653	8091
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+18.8357	8126
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+18.8718	8161
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+19.2799	8196
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+19.4636	8231
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+19.486	8265
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+19.4947	8299
+Now throughput of udp is : 591344bytes
+19.4966	8333
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+19.543	8367
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+19.6168	8401
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of tcp is : 18928bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+19.6564	8435
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes
+Now throughput of udp is : 591344bytes

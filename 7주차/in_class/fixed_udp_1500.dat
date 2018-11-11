@@ -1,0 +1,1836 @@
+Waf: Entering directory `/home/kwonl/tools/ns-allinone-3.26/ns-3.26/build'
+Waf: Leaving directory `/home/kwonl/tools/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.564s)
+5.00946	536
+5.01961	1072
+5.03204	1608
+5.04452	2144
+5.057	2680
+5.06948	3216
+5.08196	3752
+5.09444	4288
+5.10692	4824
+5.1194	5360
+5.13188	5896
+5.14436	6432
+5.15684	6968
+5.16932	7504
+5.1818	8040
+5.19428	8576
+5.20676	9112
+5.21924	9648
+5.23172	10184
+5.2442	10720
+5.25668	11256
+5.26916	11792
+5.28164	12328
+5.29412	12864
+5.3066	13400
+5.31908	13936
+5.33156	14472
+5.34404	15008
+5.35652	15544
+5.369	16080
+5.38148	16616
+5.39396	17152
+5.40644	17688
+5.41892	18224
+5.4314	18760
+5.44388	19296
+5.45636	19832
+5.46884	20368
+5.48132	20904
+5.4938	21440
+5.70534	21976
+5.74246	2680
+5.75494	644
+5.75494	1180
+5.76836	1072
+5.76836	1340
+5.78084	1554
+5.79332	1738
+5.8058	1903
+5.81828	2053
+5.83076	2192
+5.84324	2323
+5.85572	2446
+5.8682	2563
+5.88068	2675
+5.89316	2782
+5.90564	2885
+5.91812	2984
+5.9306	3080
+5.94308	3173
+5.95556	3263
+5.96804	3351
+5.98052	3436
+5.993	3519
+6.00548	3600
+6.01796	3679
+6.03044	3757
+6.04292	3833
+6.0554	3907
+6.06788	3980
+6.08036	4052
+6.09284	4122
+6.10532	4191
+6.1178	4259
+6.13028	4326
+6.14276	4392
+6.15524	4457
+6.16772	4521
+6.1802	4584
+6.19268	4646
+6.20516	4707
+6.21764	4768
+6.23012	4828
+6.2426	4887
+6.25508	4945
+6.26756	5003
+6.28004	5060
+6.29252	5116
+6.305	5172
+6.31748	5227
+6.32996	5281
+6.34244	5335
+6.35492	5388
+6.3674	5441
+6.37988	5493
+6.39236	5545
+6.40484	5596
+6.41732	5647
+6.4298	5697
+6.44228	5747
+6.45476	5796
+6.46724	5845
+6.47972	5894
+6.4922	5942
+6.50468	5990
+6.51716	6037
+6.52964	6084
+6.54212	6131
+6.5546	6177
+6.56708	6223
+6.57956	6269
+6.59204	6314
+6.60452	6359
+6.617	6404
+6.62948	6448
+6.64196	6492
+6.65444	6536
+6.66692	6579
+6.6794	6622
+6.69188	6665
+6.70436	6708
+6.71684	6750
+6.72932	6792
+6.7418	6834
+6.75428	6876
+6.76676	6917
+6.77924	6958
+6.79172	6999
+6.8042	7040
+6.81668	7080
+6.82916	7120
+6.84164	7160
+6.85412	7200
+6.8666	7239
+6.87908	7278
+6.89156	7317
+6.90404	7356
+6.91652	7395
+6.929	7433
+6.94148	7471
+6.95396	7509
+6.96644	7547
+6.97892	7585
+6.9914	7622
+7.00388	7659
+7.01636	7696
+7.02884	7733
+7.04132	7770
+7.0538	7806
+7.06628	7842
+7.07876	7878
+7.09124	7914
+7.10372	7950
+7.1162	7986
+7.12868	8021
+7.14116	8056
+7.15364	8091
+7.16612	8126
+7.1786	8161
+7.19108	8196
+7.20356	8231
+7.21604	8265
+7.22852	8299
+7.241	8333
+7.25348	8367
+7.26596	8401
+7.27844	8435
+7.29092	8469
+7.3034	8502
+7.31588	8535
+7.32836	8568
+7.34084	8601
+7.35332	8634
+7.3658	8667
+7.37828	8700
+7.39076	8733
+7.40324	8765
+7.41572	8797
+7.4282	8829
+7.44068	8861
+7.45316	8893
+7.46564	8925
+7.47812	8957
+7.4906	8989
+7.50308	9020
+7.51556	9051
+7.52804	9082
+7.54052	9113
+7.553	9144
+7.56548	9175
+7.57796	9206
+7.59044	9237
+7.60292	9268
+7.6154	9298
+7.62788	9328
+7.64036	9358
+7.65284	9388
+7.66532	9418
+7.6778	9448
+7.69028	9478
+7.70276	9508
+7.71524	9538
+7.72772	9568
+7.7402	9598
+7.75268	9627
+7.76516	9656
+7.77764	9685
+7.79012	9714
+7.8026	9743
+7.81508	9772
+7.82756	9801
+7.84004	9830
+7.85252	9859
+7.865	9888
+7.87748	9917
+7.88996	9945
+7.90244	9973
+7.91492	10001
+7.9274	10029
+7.93988	10057
+7.95236	10085
+7.96484	10113
+7.97732	10141
+7.9898	10169
+8.00228	10197
+8.01476	10225
+8.02724	10253
+8.03972	10281
+8.0522	10308
+8.06468	10335
+8.07716	10362
+8.08964	10389
+8.10212	10416
+8.1146	10443
+8.12708	10470
+8.13956	10497
+8.15204	10524
+8.16452	10551
+8.177	10578
+8.18948	10605
+8.20196	10632
+8.21444	10659
+8.22692	10685
+8.2394	10711
+8.25188	10737
+8.26436	10763
+8.27684	10789
+8.28932	10815
+8.3018	10841
+8.31428	10867
+8.32676	10893
+8.33924	10919
+8.35172	10945
+8.3642	10971
+8.37668	10997
+8.38916	11023
+8.40164	11049
+8.41412	11075
+8.4266	11100
+8.43908	11125
+8.45156	11150
+8.46404	11175
+8.47652	11200
+8.489	11225
+8.50148	11250
+8.51396	11275
+8.52644	11300
+8.53892	11325
+8.5514	11350
+8.56388	11375
+8.57636	11400
+8.58884	11425
+8.60132	11450
+8.6138	11475
+8.62628	11500
+8.63876	11524
+8.65124	11548
+8.66372	11572
+8.6762	11596
+8.68868	11620
+8.70116	11644
+8.71364	11668
+8.72612	11692
+8.7386	11716
+8.75108	11740
+8.76356	11764
+8.77604	11788
+8.78852	11812
+8.801	11836
+8.81348	11860
+8.82596	11884
+8.83844	11908
+8.85092	11932
+8.8634	11956
+8.87588	11980
+8.88836	12003
+8.90084	12026
+8.91332	12049
+8.9258	12072
+8.93828	12095
+8.95076	12118
+8.96324	12141
+8.97572	12164
+8.9882	12187
+9.00068	12210
+9.01316	12233
+9.02564	12256
+9.03812	12279
+9.0506	12302
+9.06308	12325
+9.27462	12348
+9.31174	2680
+9.32422	644
+9.32422	1180
+9.33764	1072
+9.33764	1340
+9.37414	2680
+9.38662	644
+9.38662	1180
+9.40004	1072
+9.40004	1340
+9.41252	1554
+9.425	1738
+9.43748	1903
+9.44996	2053
+9.46244	2192
+9.47492	2323
+9.4874	2446
+9.49988	2563
+9.51236	2675
+9.52484	2782
+9.53732	2885
+9.5498	2984
+9.56228	3080
+9.57476	3173
+9.58724	3263
+9.59972	3351
+9.6122	3436
+9.62468	3519
+9.63716	3600
+9.64964	3679
+9.66212	3757
+9.6746	3833
+9.68708	3907
+9.69956	3980
+9.71204	4052
+9.72452	4122
+9.737	4191
+9.74948	4259
+9.76196	4326
+9.77444	4392
+9.78692	4457
+9.7994	4521
+9.81188	4584
+9.82436	4646
+9.83684	4707
+9.84932	4768
+9.8618	4828
+9.87428	4887
+9.88676	4945
+9.89924	5003
+9.91172	5060
+9.9242	5116
+9.93668	5172
+9.94916	5227
+9.96164	5281
+9.97412	5335
+9.9866	5388
+9.99908	5441
+10.0116	5493
+10.024	5545
+10.0365	5596
+10.049	5647
+10.0615	5697
+10.074	5747
+10.0864	5796
+10.0989	5845
+10.1114	5894
+10.1239	5942
+10.1364	5990
+10.1488	6037
+10.1613	6084
+10.1738	6131
+10.1863	6177
+10.1988	6223
+10.2112	6269
+10.2237	6314
+10.2362	6359
+10.2487	6404
+10.2612	6448
+10.2977	2680
+10.3101	644
+10.3101	1180
+10.3236	1072
+10.3236	1340
+10.336	1554
+10.3485	1738
+10.361	1903
+10.3735	2053
+10.386	2192
+10.3984	2323
+10.4109	2446
+10.4234	2563
+10.4359	2675
+10.4484	2782
+10.4608	2885
+10.4733	2984
+10.4858	3080
+10.4983	3173
+10.5108	3263
+10.5232	3351
+10.5357	3436
+10.5482	3519
+10.5607	3600
+10.5732	3679
+10.5856	3757
+10.5981	3833
+10.6106	3907
+10.6231	3980
+10.6356	4052
+10.648	4122
+10.6605	4191
+10.673	4259
+10.6855	4326
+10.698	4392
+10.7104	4457
+10.7229	4521
+10.9345	4584
+10.9716	2680
+10.9841	644
+10.9841	1180
+10.9975	1072
+10.9975	1340
+11.01	1554
+11.0224	1738
+11.0349	1903
+11.0474	2053
+11.0599	2192
+11.0724	2323
+11.0848	2446
+11.0973	2563
+11.1098	2675
+11.1223	2782
+11.1348	2885
+11.1472	2984
+11.1597	3080
+11.1722	3173
+11.1847	3263
+11.1972	3351
+11.2096	3436
+11.2221	3519
+11.2346	3600
+11.2471	3679
+11.2596	3757
+11.272	3833
+11.2845	3907
+11.297	3980
+11.3095	4052
+11.322	4122
+11.3344	4191
+11.3469	4259
+11.3594	4326
+11.3719	4392
+11.3844	4457
+11.3968	4521
+11.4093	4584
+11.4218	4646
+11.4343	4707
+11.4468	4768
+11.4592	4828
+11.4717	4887
+11.4842	4945
+11.4967	5003
+11.5092	5060
+11.5216	5116
+11.7332	5172
+11.7703	2680
+11.7828	644
+11.7828	1180
+11.7962	1072
+11.7962	1340
+11.8087	1554
+11.8212	1738
+11.8336	1903
+11.8461	2053
+11.8586	2192
+11.8711	2323
+11.8836	2446
+11.896	2563
+11.9085	2675
+11.921	2782
+11.9335	2885
+11.946	2984
+11.9584	3080
+11.9709	3173
+11.9834	3263
+11.9959	3351
+12.0084	3436
+12.0208	3519
+12.0333	3600
+12.0458	3679
+12.0583	3757
+12.0708	3833
+12.0832	3907
+12.0957	3980
+12.1082	4052
+12.1207	4122
+12.1332	4191
+12.1456	4259
+12.1581	4326
+12.1706	4392
+12.1831	4457
+12.1956	4521
+12.208	4584
+12.2205	4646
+12.233	4707
+12.2455	4768
+12.258	4828
+12.2704	4887
+12.2829	4945
+12.2954	5003
+12.3079	5060
+12.3204	5116
+12.3328	5172
+12.3453	5227
+12.3578	5281
+12.3703	5335
+12.3828	5388
+12.3952	5441
+12.4077	5493
+12.4202	5545
+12.4327	5596
+12.4452	5647
+12.4576	5697
+12.4701	5747
+12.4826	5796
+12.4951	5845
+12.5076	5894
+12.52	5942
+12.5325	5990
+12.545	6037
+12.5575	6084
+12.57	6131
+12.5824	6177
+12.5949	6223
+12.6074	6269
+12.6199	6314
+12.6324	6359
+12.6448	6404
+12.6573	6448
+12.6698	6492
+12.7063	2680
+12.7188	644
+12.7188	1180
+12.7322	1072
+12.7322	1340
+12.7447	1554
+12.7572	1738
+12.7696	1903
+12.7821	2053
+12.7946	2192
+12.8071	2323
+12.8196	2446
+12.832	2563
+12.8445	2675
+12.857	2782
+12.8695	2885
+12.882	2984
+12.8944	3080
+12.9069	3173
+12.9194	3263
+12.9319	3351
+12.9444	3436
+12.9568	3519
+12.9693	3600
+12.9818	3679
+12.9943	3757
+13.0068	3833
+13.0192	3907
+13.0317	3980
+13.0442	4052
+13.0567	4122
+13.0692	4191
+13.0816	4259
+13.0941	4326
+13.1066	4392
+13.1191	4457
+13.1316	4521
+13.144	4584
+13.1565	4646
+13.169	4707
+13.1815	4768
+13.194	4828
+13.2064	4887
+13.418	4945
+13.4551	2680
+13.4676	644
+13.4676	1180
+13.481	1072
+13.481	1340
+13.4935	1554
+13.506	1738
+13.5184	1903
+13.5309	2053
+13.5434	2192
+13.5559	2323
+13.5684	2446
+13.5808	2563
+13.5933	2675
+13.6058	2782
+13.6183	2885
+13.6308	2984
+13.6432	3080
+13.6557	3173
+13.6682	3263
+13.6807	3351
+13.6932	3436
+13.7056	3519
+13.7181	3600
+13.7306	3679
+13.7431	3757
+13.7556	3833
+13.768	3907
+13.7805	3980
+13.793	4052
+13.8055	4122
+13.818	4191
+13.8304	4259
+13.8429	4326
+13.8554	4392
+13.8679	4457
+13.8804	4521
+13.8928	4584
+13.9053	4646
+13.9178	4707
+13.9303	4768
+13.9428	4828
+13.9552	4887
+14.1668	4945
+14.2039	2680
+14.2164	644
+14.2164	1180
+14.2298	1072
+14.2298	1340
+14.2423	1554
+14.2548	1738
+14.2672	1903
+14.2797	2053
+14.2922	2192
+14.3047	2323
+14.3172	2446
+14.3296	2563
+14.3421	2675
+14.3546	2782
+14.3671	2885
+14.3796	2984
+14.392	3080
+14.4045	3173
+14.417	3263
+14.4295	3351
+14.442	3436
+14.4544	3519
+14.4669	3600
+14.4794	3679
+14.4919	3757
+14.5044	3833
+14.5168	3907
+14.5293	3980
+14.5418	4052
+14.5543	4122
+14.5668	4191
+14.5792	4259
+14.5917	4326
+14.6042	4392
+14.6167	4457
+14.6292	4521
+14.6416	4584
+14.6541	4646
+14.6666	4707
+14.6791	4768
+14.6916	4828
+14.704	4887
+14.7165	4945
+14.729	5003
+14.7415	5060
+14.754	5116
+14.7664	5172
+14.7789	5227
+14.7914	5281
+14.8039	5335
+14.8164	5388
+14.8288	5441
+14.8413	5493
+14.8538	5545
+14.8663	5596
+14.8788	5647
+14.8912	5697
+14.9037	5747
+14.9162	5796
+14.9287	5845
+14.9412	5894
+14.9536	5942
+14.9661	5990
+14.9786	6037
+14.9911	6084
+15.0036	6131
+15.0401	2680
+15.0525	644
+15.0525	1180
+15.066	1072
+15.066	1340
+15.0784	1554
+15.0909	1738
+15.1034	1903
+15.1159	2053
+15.1284	2192
+15.1408	2323
+15.1533	2446
+15.1658	2563
+15.1783	2675
+15.1908	2782
+15.2032	2885
+15.2157	2984
+15.2282	3080
+15.2407	3173
+15.2532	3263
+15.2656	3351
+15.2781	3436
+15.2906	3519
+15.3031	3600
+15.3156	3679
+15.328	3757
+15.3405	3833
+15.353	3907
+15.3655	3980
+15.378	4052
+15.3904	4122
+15.4029	4191
+15.4154	4259
+15.4279	4326
+15.4404	4392
+15.4528	4457
+15.4653	4521
+15.4778	4584
+15.4903	4646
+15.5028	4707
+15.5152	4768
+15.5277	4828
+15.5402	4887
+15.5527	4945
+15.5652	5003
+15.5776	5060
+15.5901	5116
+15.6026	5172
+15.6151	5227
+15.6276	5281
+15.64	5335
+15.6525	5388
+15.665	5441
+15.6775	5493
+15.69	5545
+15.7024	5596
+15.7149	5647
+15.7274	5697
+15.7399	5747
+15.7524	5796
+15.7648	5845
+15.7773	5894
+15.7898	5942
+15.8023	5990
+15.8148	6037
+15.8272	6084
+15.8397	6131
+15.8522	6177
+15.8647	6223
+15.8772	6269
+15.8896	6314
+15.9021	6359
+15.9146	6404
+15.9271	6448
+15.9396	6492
+15.952	6536
+15.9645	6579
+15.977	6622
+15.9895	6665
+16.002	6708
+16.0144	6750
+16.0269	6792
+16.0394	6834
+16.0519	6876
+16.0644	6917
+16.0768	6958
+16.0893	6999
+16.1018	7040
+16.1143	7080
+16.1268	7120
+16.1392	7160
+16.1517	7200
+16.1642	7239
+16.1767	7278
+16.1892	7317
+16.2016	7356
+16.2141	7395
+16.2266	7433
+16.2391	7471
+16.2516	7509
+16.264	7547
+16.2765	7585
+16.289	7622
+16.3015	7659
+16.314	7696
+16.3264	7733
+16.3389	7770
+16.3514	7806
+16.3639	7842
+16.3764	7878
+16.3888	7914
+16.4013	7950
+16.4138	7986
+16.4263	8021
+16.4388	8056
+16.4512	8091
+16.4637	8126
+16.4762	8161
+16.4887	8196
+16.5012	8231
+16.5136	8265
+16.5261	8299
+16.5386	8333
+16.5511	8367
+16.5636	8401
+16.576	8435
+16.5885	8469
+16.601	8502
+16.6135	8535
+16.825	8568
+16.8621	2680
+16.8746	644
+16.8746	1180
+16.888	1072
+16.888	1340
+16.9005	1554
+16.913	1738
+16.9255	1903
+16.938	2053
+16.9504	2192
+16.9629	2323
+16.9754	2446
+16.9879	2563
+17.0004	2675
+17.0128	2782
+17.0253	2885
+17.0378	2984
+17.0503	3080
+17.0628	3173
+17.0752	3263
+17.0877	3351
+17.1002	3436
+17.1127	3519
+17.1252	3600
+17.1376	3679
+17.1501	3757
+17.1626	3833
+17.1751	3907
+17.1876	3980
+17.2	4052
+17.2125	4122
+17.225	4191
+17.2375	4259
+17.25	4326
+17.2624	4392
+17.2749	4457
+17.2874	4521
+17.2999	4584
+17.3124	4646
+17.3248	4707
+17.3373	4768
+17.3498	4828
+17.3623	4887
+17.3748	4945
+17.3872	5003
+17.3997	5060
+17.4122	5116
+17.4247	5172
+17.4372	5227
+17.4496	5281
+17.4621	5335
+17.4746	5388
+17.4871	5441
+17.4996	5493
+17.512	5545
+17.5245	5596
+17.537	5647
+17.5495	5697
+17.562	5747
+17.5744	5796
+17.5869	5845
+17.5994	5894
+17.6119	5942
+17.6244	5990
+17.6368	6037
+17.6493	6084
+17.6618	6131
+17.6743	6177
+17.6868	6223
+17.6992	6269
+17.7117	6314
+17.7242	6359
+17.7367	6404
+17.7492	6448
+17.7616	6492
+17.7741	6536
+17.7866	6579
+17.7991	6622
+17.8116	6665
+17.824	6708
+17.8365	6750
+17.849	6792
+17.8615	6834
+17.874	6876
+17.8864	6917
+17.8989	6958
+17.9114	6999
+17.9239	7040
+17.9364	7080
+17.9488	7120
+17.9613	7160
+17.9738	7200
+17.9863	7239
+17.9988	7278
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.0112	7317
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.0237	7356
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.0362	7395
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.0487	7433
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.0612	7471
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.0736	7509
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.0861	7547
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.0986	7585
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.1111	7622
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.1236	7659
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.136	7696
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.1485	7733
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.161	7770
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.1735	7806
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.186	7842
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.1984	7878
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.2109	7914
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.2234	7950
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.2359	7986
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+18.2484	8021
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.2608	8056
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.2733	8091
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.2858	8126
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.2983	8161
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.3108	8196
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.3232	8231
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.3357	8265
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.3482	8299
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.3607	8333
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.3732	8367
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.3856	8401
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.3981	8435
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.4106	8469
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.4231	8502
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.4356	8535
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.448	8568
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.4605	8601
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.473	8634
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.4855	8667
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.498	8700
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.5104	8733
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.5229	8765
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.5354	8797
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.5479	8829
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.5604	8861
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.5728	8893
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.5853	8925
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.5978	8957
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.6103	8989
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.6228	9020
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.6352	9051
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.6477	9082
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.6602	9113
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.6727	9144
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.6852	9175
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.6976	9206
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.7101	9237
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.7226	9268
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.7351	9298
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.7476	9328
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.76	9358
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.7725	9388
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.785	9418
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.7975	9448
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.81	9478
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.8224	9508
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.8349	9538
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.8474	9568
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.8599	9598
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.8724	9627
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.8848	9656
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.8973	9685
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.9098	9714
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.9223	9743
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.9348	9772
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.9472	9801
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.9597	9830
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.9722	9859
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.9847	9888
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+18.9972	9917
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.0096	9945
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.0221	9973
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.0346	10001
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.0471	10029
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.0596	10057
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.072	10085
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.0845	10113
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.097	10141
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.1095	10169
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.122	10197
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.1344	10225
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.1469	10253
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.1594	10281
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.1719	10308
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.1844	10335
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.1968	10362
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.2093	10389
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.2218	10416
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.2343	10443
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.2468	10470
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.2592	10497
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.2717	10524
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.2842	10551
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.2967	10578
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.3092	10605
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.3216	10632
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.3341	10659
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.3466	10685
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.3591	10711
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+19.5706	10737
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+19.6077	2680
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.6202	644
+19.6202	1180
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.6336	1072
+19.6336	1340
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.6461	1554
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.6586	1738
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.6711	1903
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.6836	2053
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.696	2192
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.7085	2323
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.721	2446
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.7335	2563
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.746	2675
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.7584	2782
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.7709	2885
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.7834	2984
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.7959	3080
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.8084	3173
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.8208	3263
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.8333	3351
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.8458	3436
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.8583	3519
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.8708	3600
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.8832	3679
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.8957	3757
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.9082	3833
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.9207	3907
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.9332	3980
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.9456	4052
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.9581	4122
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.9706	4191
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.9831	4259
+Now throughput of udp is : 247520bytes
+Now throughput of udp is : 247520bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of tcp is : 138736bytes
+Now throughput of udp is : 247520bytes
+19.9956	4326
+Now throughput of udp is : 247520bytes

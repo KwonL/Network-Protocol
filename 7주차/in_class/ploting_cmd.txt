@@ -1,0 +1,21 @@
+set terminal png size 640,480
+set output "cwnd_1.png"
+plot "fixed_recv_buf_1.dat" using 1:2 title 'cong_wind' with linespoints
+
+set terminal png size 640,480
+set output "cwnd_2.png"
+plot "fixed_recv_buf_3.dat" using 1:2 title 'cong_wind' with linespoints
+
+set terminal png size 640,480
+set output "cwnd_3.png"
+plot "fixed_recv_buf_5.dat" using 1:2 title 'cong_wind' with linespoints
+
+set terminal png size 640,480
+set output "cwnd_4.png"
+plot "fixed_udp_10000.dat" using 1:2 title 'cong_wind' with linespoints
+
+set terminal png size 640,480
+set output "cwnd_5.png"
+plot "fixed_udp_1500.dat" using 1:2 title 'cong_wind' with linespoints
+
+

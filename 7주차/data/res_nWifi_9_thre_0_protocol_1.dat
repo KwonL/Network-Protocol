@@ -1,7 +1,7 @@
 Waf: Entering directory `/home/kwonl/tools/ns-allinone-3.26/ns-3.26/build'
 Waf: Leaving directory `/home/kwonl/tools/ns-allinone-3.26/ns-3.26/build'
 Build commands will be stored in build/compile_commands.json
-'build' finished successfully (0.693s)
+'build' finished successfully (0.890s)
 2.00864	0.00159312	UDP
 2.01009	0.00318394	UDP
 2.01195	0.00477149	UDP
@@ -13555,3 +13555,5 @@ Build commands will be stored in build/compile_commands.json
 7.51371	6.36617	UDP
 7.54478	3.94972	UDP
 RTS failed : 5199
+TCP total : 0
+UDP total : 8.67328

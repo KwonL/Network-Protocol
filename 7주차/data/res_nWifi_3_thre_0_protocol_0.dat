@@ -1,9 +1,9 @@
 Waf: Entering directory `/home/kwonl/tools/ns-allinone-3.26/ns-3.26/build'
-[ 926/1930] Compiling scratch/third.cc
-[1894/1930] Linking build/scratch/third
+[ 927/1930] Compiling scratch/third.cc
+[1909/1930] Linking build/scratch/third
 Waf: Leaving directory `/home/kwonl/tools/ns-allinone-3.26/ns-3.26/build'
 Build commands will be stored in build/compile_commands.json
-'build' finished successfully (3.147s)
+'build' finished successfully (4.091s)
 1.02904	0.004167	TCP
 1.03473	0.00828813	TCP
 1.03585	0.0124188	TCP
@@ -7115,3 +7115,5 @@ Build commands will be stored in build/compile_commands.json
 10.0971	5.24352	TCP
 10.0978	5.2144	TCP
 RTS failed : 2306
+TCP total : 2.95648
+UDP total : 0

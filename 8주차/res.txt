@@ -1,0 +1,1098 @@
+Waf: Entering directory `/home/kwonl/tools/ns-allinone-3.26/ns-3.26/build'
+[1790/1928] Compiling scratch/myapp-ex1.cc
+[1888/1928] Linking build/scratch/myapp-ex1
+Waf: Leaving directory `/home/kwonl/tools/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.647s)
+
+1	A new packet is sent at Node 0
+m_seq = 0
+1.00366	A packet is received at Node 1
+1.00366	A packet is received with sequence num 0
+Sequence number is correct
+
+1.004	A new packet is sent at Node 0
+m_seq = 1
+1.00766	A packet is received at Node 1
+1.00766	A packet is received with sequence num 1
+Sequence number is correct
+
+1.008	A new packet is sent at Node 0
+m_seq = 2
+1.01166	A packet is received at Node 1
+1.01166	A packet is received with sequence num 2
+Sequence number is correct
+
+1.012	A new packet is sent at Node 0
+m_seq = 3
+1.01566	A packet is received at Node 1
+1.01566	A packet is received with sequence num 3
+Sequence number is correct
+
+1.016	A new packet is sent at Node 0
+m_seq = 4
+1.01966	A packet is received at Node 1
+1.01966	A packet is received with sequence num 4
+Sequence number is correct
+
+1.02	A new packet is sent at Node 0
+m_seq = 5
+1.02366	A packet is received at Node 1
+1.02366	A packet is received with sequence num 5
+Sequence number is correct
+
+1.024	A new packet is sent at Node 0
+m_seq = 6
+
+1.028	A new packet is sent at Node 0
+m_seq = 7
+1.03166	A packet is received at Node 1
+1.03166	A packet is received with sequence num 7
+Sequence number error! expected seq num is : 6
+
+1.032	A new packet is sent at Node 0
+m_seq = 8
+1.03566	A packet is received at Node 1
+1.03566	A packet is received with sequence num 8
+Sequence number is correct
+
+1.036	A new packet is sent at Node 0
+m_seq = 9
+1.03966	A packet is received at Node 1
+1.03966	A packet is received with sequence num 9
+Sequence number is correct
+
+1.04	A new packet is sent at Node 0
+m_seq = 10
+1.04366	A packet is received at Node 1
+1.04366	A packet is received with sequence num 10
+Sequence number is correct
+
+1.044	A new packet is sent at Node 0
+m_seq = 11
+1.04766	A packet is received at Node 1
+1.04766	A packet is received with sequence num 11
+Sequence number is correct
+
+1.048	A new packet is sent at Node 0
+m_seq = 12
+1.05166	A packet is received at Node 1
+1.05166	A packet is received with sequence num 12
+Sequence number is correct
+
+1.052	A new packet is sent at Node 0
+m_seq = 13
+1.05566	A packet is received at Node 1
+1.05566	A packet is received with sequence num 13
+Sequence number is correct
+
+1.056	A new packet is sent at Node 0
+m_seq = 14
+
+1.06	A new packet is sent at Node 0
+m_seq = 15
+1.06366	A packet is received at Node 1
+1.06366	A packet is received with sequence num 15
+Sequence number error! expected seq num is : 14
+
+1.064	A new packet is sent at Node 0
+m_seq = 16
+1.06766	A packet is received at Node 1
+1.06766	A packet is received with sequence num 16
+Sequence number is correct
+
+1.068	A new packet is sent at Node 0
+m_seq = 17
+1.07166	A packet is received at Node 1
+1.07166	A packet is received with sequence num 17
+Sequence number is correct
+
+1.072	A new packet is sent at Node 0
+m_seq = 18
+
+1.076	A new packet is sent at Node 0
+m_seq = 19
+1.07966	A packet is received at Node 1
+1.07966	A packet is received with sequence num 19
+Sequence number error! expected seq num is : 18
+
+1.08	A new packet is sent at Node 0
+m_seq = 20
+1.08366	A packet is received at Node 1
+1.08366	A packet is received with sequence num 20
+Sequence number is correct
+
+1.084	A new packet is sent at Node 0
+m_seq = 21
+1.08766	A packet is received at Node 1
+1.08766	A packet is received with sequence num 21
+Sequence number is correct
+
+1.088	A new packet is sent at Node 0
+m_seq = 22
+1.09166	A packet is received at Node 1
+1.09166	A packet is received with sequence num 22
+Sequence number is correct
+
+1.092	A new packet is sent at Node 0
+m_seq = 23
+1.09566	A packet is received at Node 1
+1.09566	A packet is received with sequence num 23
+Sequence number is correct
+
+1.096	A new packet is sent at Node 0
+m_seq = 24
+1.09966	A packet is received at Node 1
+1.09966	A packet is received with sequence num 24
+Sequence number is correct
+
+1.1	A new packet is sent at Node 0
+m_seq = 25
+1.10366	A packet is received at Node 1
+1.10366	A packet is received with sequence num 25
+Sequence number is correct
+
+1.104	A new packet is sent at Node 0
+m_seq = 26
+1.10766	A packet is received at Node 1
+1.10766	A packet is received with sequence num 26
+Sequence number is correct
+
+1.108	A new packet is sent at Node 0
+m_seq = 27
+1.11166	A packet is received at Node 1
+1.11166	A packet is received with sequence num 27
+Sequence number is correct
+
+1.112	A new packet is sent at Node 0
+m_seq = 28
+1.11566	A packet is received at Node 1
+1.11566	A packet is received with sequence num 28
+Sequence number is correct
+
+1.116	A new packet is sent at Node 0
+m_seq = 29
+1.11966	A packet is received at Node 1
+1.11966	A packet is received with sequence num 29
+Sequence number is correct
+
+1.12	A new packet is sent at Node 0
+m_seq = 30
+1.12366	A packet is received at Node 1
+1.12366	A packet is received with sequence num 30
+Sequence number is correct
+
+1.124	A new packet is sent at Node 0
+m_seq = 31
+1.12766	A packet is received at Node 1
+1.12766	A packet is received with sequence num 31
+Sequence number is correct
+
+1.128	A new packet is sent at Node 0
+m_seq = 32
+1.13166	A packet is received at Node 1
+1.13166	A packet is received with sequence num 32
+Sequence number is correct
+
+1.132	A new packet is sent at Node 0
+m_seq = 33
+
+1.136	A new packet is sent at Node 0
+m_seq = 34
+1.13966	A packet is received at Node 1
+1.13966	A packet is received with sequence num 34
+Sequence number error! expected seq num is : 33
+
+1.14	A new packet is sent at Node 0
+m_seq = 35
+
+1.144	A new packet is sent at Node 0
+m_seq = 36
+1.14766	A packet is received at Node 1
+1.14766	A packet is received with sequence num 36
+Sequence number error! expected seq num is : 35
+
+1.148	A new packet is sent at Node 0
+m_seq = 37
+1.15166	A packet is received at Node 1
+1.15166	A packet is received with sequence num 37
+Sequence number is correct
+
+1.152	A new packet is sent at Node 0
+m_seq = 38
+1.15566	A packet is received at Node 1
+1.15566	A packet is received with sequence num 38
+Sequence number is correct
+
+1.156	A new packet is sent at Node 0
+m_seq = 39
+1.15966	A packet is received at Node 1
+1.15966	A packet is received with sequence num 39
+Sequence number is correct
+
+1.16	A new packet is sent at Node 0
+m_seq = 40
+
+1.164	A new packet is sent at Node 0
+m_seq = 41
+1.16766	A packet is received at Node 1
+1.16766	A packet is received with sequence num 41
+Sequence number error! expected seq num is : 40
+
+1.168	A new packet is sent at Node 0
+m_seq = 42
+1.17166	A packet is received at Node 1
+1.17166	A packet is received with sequence num 42
+Sequence number is correct
+
+1.172	A new packet is sent at Node 0
+m_seq = 43
+
+1.176	A new packet is sent at Node 0
+m_seq = 44
+1.17966	A packet is received at Node 1
+1.17966	A packet is received with sequence num 44
+Sequence number error! expected seq num is : 43
+
+1.18	A new packet is sent at Node 0
+m_seq = 45
+1.18366	A packet is received at Node 1
+1.18366	A packet is received with sequence num 45
+Sequence number is correct
+
+1.184	A new packet is sent at Node 0
+m_seq = 46
+1.18766	A packet is received at Node 1
+1.18766	A packet is received with sequence num 46
+Sequence number is correct
+
+1.188	A new packet is sent at Node 0
+m_seq = 47
+1.19166	A packet is received at Node 1
+1.19166	A packet is received with sequence num 47
+Sequence number is correct
+
+1.192	A new packet is sent at Node 0
+m_seq = 48
+1.19566	A packet is received at Node 1
+1.19566	A packet is received with sequence num 48
+Sequence number is correct
+
+1.196	A new packet is sent at Node 0
+m_seq = 49
+1.19966	A packet is received at Node 1
+1.19966	A packet is received with sequence num 49
+Sequence number is correct
+
+1.2	A new packet is sent at Node 0
+m_seq = 50
+1.20366	A packet is received at Node 1
+1.20366	A packet is received with sequence num 50
+Sequence number is correct
+
+1.204	A new packet is sent at Node 0
+m_seq = 51
+1.20766	A packet is received at Node 1
+1.20766	A packet is received with sequence num 51
+Sequence number is correct
+
+1.208	A new packet is sent at Node 0
+m_seq = 52
+1.21166	A packet is received at Node 1
+1.21166	A packet is received with sequence num 52
+Sequence number is correct
+
+1.212	A new packet is sent at Node 0
+m_seq = 53
+1.21566	A packet is received at Node 1
+1.21566	A packet is received with sequence num 53
+Sequence number is correct
+
+1.216	A new packet is sent at Node 0
+m_seq = 54
+
+1.22	A new packet is sent at Node 0
+m_seq = 55
+
+1.224	A new packet is sent at Node 0
+m_seq = 56
+1.22766	A packet is received at Node 1
+1.22766	A packet is received with sequence num 56
+Sequence number error! expected seq num is : 54
+
+1.228	A new packet is sent at Node 0
+m_seq = 57
+1.23166	A packet is received at Node 1
+1.23166	A packet is received with sequence num 57
+Sequence number is correct
+
+1.232	A new packet is sent at Node 0
+m_seq = 58
+1.23566	A packet is received at Node 1
+1.23566	A packet is received with sequence num 58
+Sequence number is correct
+
+1.236	A new packet is sent at Node 0
+m_seq = 59
+1.23966	A packet is received at Node 1
+1.23966	A packet is received with sequence num 59
+Sequence number is correct
+
+1.24	A new packet is sent at Node 0
+m_seq = 60
+1.24366	A packet is received at Node 1
+1.24366	A packet is received with sequence num 60
+Sequence number is correct
+
+1.244	A new packet is sent at Node 0
+m_seq = 61
+
+1.248	A new packet is sent at Node 0
+m_seq = 62
+
+1.252	A new packet is sent at Node 0
+m_seq = 63
+1.25566	A packet is received at Node 1
+1.25566	A packet is received with sequence num 63
+Sequence number error! expected seq num is : 61
+
+1.256	A new packet is sent at Node 0
+m_seq = 64
+1.25966	A packet is received at Node 1
+1.25966	A packet is received with sequence num 64
+Sequence number is correct
+
+1.26	A new packet is sent at Node 0
+m_seq = 65
+1.26366	A packet is received at Node 1
+1.26366	A packet is received with sequence num 65
+Sequence number is correct
+
+1.264	A new packet is sent at Node 0
+m_seq = 66
+1.26766	A packet is received at Node 1
+1.26766	A packet is received with sequence num 66
+Sequence number is correct
+
+1.268	A new packet is sent at Node 0
+m_seq = 67
+1.27166	A packet is received at Node 1
+1.27166	A packet is received with sequence num 67
+Sequence number is correct
+
+1.272	A new packet is sent at Node 0
+m_seq = 68
+
+1.276	A new packet is sent at Node 0
+m_seq = 69
+1.27966	A packet is received at Node 1
+1.27966	A packet is received with sequence num 69
+Sequence number error! expected seq num is : 68
+
+1.28	A new packet is sent at Node 0
+m_seq = 70
+1.28366	A packet is received at Node 1
+1.28366	A packet is received with sequence num 70
+Sequence number is correct
+
+1.284	A new packet is sent at Node 0
+m_seq = 71
+1.28766	A packet is received at Node 1
+1.28766	A packet is received with sequence num 71
+Sequence number is correct
+
+1.288	A new packet is sent at Node 0
+m_seq = 72
+1.29166	A packet is received at Node 1
+1.29166	A packet is received with sequence num 72
+Sequence number is correct
+
+1.292	A new packet is sent at Node 0
+m_seq = 73
+1.29566	A packet is received at Node 1
+1.29566	A packet is received with sequence num 73
+Sequence number is correct
+
+1.296	A new packet is sent at Node 0
+m_seq = 74
+1.29966	A packet is received at Node 1
+1.29966	A packet is received with sequence num 74
+Sequence number is correct
+
+1.3	A new packet is sent at Node 0
+m_seq = 75
+1.30366	A packet is received at Node 1
+1.30366	A packet is received with sequence num 75
+Sequence number is correct
+
+1.304	A new packet is sent at Node 0
+m_seq = 76
+1.30766	A packet is received at Node 1
+1.30766	A packet is received with sequence num 76
+Sequence number is correct
+
+1.308	A new packet is sent at Node 0
+m_seq = 77
+1.31166	A packet is received at Node 1
+1.31166	A packet is received with sequence num 77
+Sequence number is correct
+
+1.312	A new packet is sent at Node 0
+m_seq = 78
+1.31566	A packet is received at Node 1
+1.31566	A packet is received with sequence num 78
+Sequence number is correct
+
+1.316	A new packet is sent at Node 0
+m_seq = 79
+1.31966	A packet is received at Node 1
+1.31966	A packet is received with sequence num 79
+Sequence number is correct
+
+1.32	A new packet is sent at Node 0
+m_seq = 80
+1.32366	A packet is received at Node 1
+1.32366	A packet is received with sequence num 80
+Sequence number is correct
+
+1.324	A new packet is sent at Node 0
+m_seq = 81
+1.32766	A packet is received at Node 1
+1.32766	A packet is received with sequence num 81
+Sequence number is correct
+
+1.328	A new packet is sent at Node 0
+m_seq = 82
+1.33166	A packet is received at Node 1
+1.33166	A packet is received with sequence num 82
+Sequence number is correct
+
+1.332	A new packet is sent at Node 0
+m_seq = 83
+1.33566	A packet is received at Node 1
+1.33566	A packet is received with sequence num 83
+Sequence number is correct
+
+1.336	A new packet is sent at Node 0
+m_seq = 84
+1.33966	A packet is received at Node 1
+1.33966	A packet is received with sequence num 84
+Sequence number is correct
+
+1.34	A new packet is sent at Node 0
+m_seq = 85
+1.34366	A packet is received at Node 1
+1.34366	A packet is received with sequence num 85
+Sequence number is correct
+
+1.344	A new packet is sent at Node 0
+m_seq = 86
+
+1.348	A new packet is sent at Node 0
+m_seq = 87
+1.35166	A packet is received at Node 1
+1.35166	A packet is received with sequence num 87
+Sequence number error! expected seq num is : 86
+
+1.352	A new packet is sent at Node 0
+m_seq = 88
+1.35566	A packet is received at Node 1
+1.35566	A packet is received with sequence num 88
+Sequence number is correct
+
+1.356	A new packet is sent at Node 0
+m_seq = 89
+1.35966	A packet is received at Node 1
+1.35966	A packet is received with sequence num 89
+Sequence number is correct
+
+1.36	A new packet is sent at Node 0
+m_seq = 90
+1.36366	A packet is received at Node 1
+1.36366	A packet is received with sequence num 90
+Sequence number is correct
+
+1.364	A new packet is sent at Node 0
+m_seq = 91
+1.36766	A packet is received at Node 1
+1.36766	A packet is received with sequence num 91
+Sequence number is correct
+
+1.368	A new packet is sent at Node 0
+m_seq = 92
+1.37166	A packet is received at Node 1
+1.37166	A packet is received with sequence num 92
+Sequence number is correct
+
+1.372	A new packet is sent at Node 0
+m_seq = 93
+
+1.376	A new packet is sent at Node 0
+m_seq = 94
+
+1.38	A new packet is sent at Node 0
+m_seq = 95
+1.38366	A packet is received at Node 1
+1.38366	A packet is received with sequence num 95
+Sequence number error! expected seq num is : 93
+
+1.384	A new packet is sent at Node 0
+m_seq = 96
+1.38766	A packet is received at Node 1
+1.38766	A packet is received with sequence num 96
+Sequence number is correct
+
+1.388	A new packet is sent at Node 0
+m_seq = 97
+1.39166	A packet is received at Node 1
+1.39166	A packet is received with sequence num 97
+Sequence number is correct
+
+1.392	A new packet is sent at Node 0
+m_seq = 98
+1.39566	A packet is received at Node 1
+1.39566	A packet is received with sequence num 98
+Sequence number is correct
+
+1.396	A new packet is sent at Node 0
+m_seq = 99
+1.39966	A packet is received at Node 1
+1.39966	A packet is received with sequence num 99
+Sequence number is correct
+
+1.4	A new packet is sent at Node 0
+m_seq = 100
+
+1.404	A new packet is sent at Node 0
+m_seq = 101
+1.40766	A packet is received at Node 1
+1.40766	A packet is received with sequence num 101
+Sequence number error! expected seq num is : 100
+
+1.408	A new packet is sent at Node 0
+m_seq = 102
+1.41166	A packet is received at Node 1
+1.41166	A packet is received with sequence num 102
+Sequence number is correct
+
+1.412	A new packet is sent at Node 0
+m_seq = 103
+
+1.416	A new packet is sent at Node 0
+m_seq = 104
+1.41966	A packet is received at Node 1
+1.41966	A packet is received with sequence num 104
+Sequence number error! expected seq num is : 103
+
+1.42	A new packet is sent at Node 0
+m_seq = 105
+1.42366	A packet is received at Node 1
+1.42366	A packet is received with sequence num 105
+Sequence number is correct
+
+1.424	A new packet is sent at Node 0
+m_seq = 106
+1.42766	A packet is received at Node 1
+1.42766	A packet is received with sequence num 106
+Sequence number is correct
+
+1.428	A new packet is sent at Node 0
+m_seq = 107
+1.43166	A packet is received at Node 1
+1.43166	A packet is received with sequence num 107
+Sequence number is correct
+
+1.432	A new packet is sent at Node 0
+m_seq = 108
+
+1.436	A new packet is sent at Node 0
+m_seq = 109
+
+1.44	A new packet is sent at Node 0
+m_seq = 110
+1.44366	A packet is received at Node 1
+1.44366	A packet is received with sequence num 110
+Sequence number error! expected seq num is : 108
+
+1.444	A new packet is sent at Node 0
+m_seq = 111
+
+1.448	A new packet is sent at Node 0
+m_seq = 112
+1.45166	A packet is received at Node 1
+1.45166	A packet is received with sequence num 112
+Sequence number error! expected seq num is : 111
+
+1.452	A new packet is sent at Node 0
+m_seq = 113
+1.45566	A packet is received at Node 1
+1.45566	A packet is received with sequence num 113
+Sequence number is correct
+
+1.456	A new packet is sent at Node 0
+m_seq = 114
+
+1.46	A new packet is sent at Node 0
+m_seq = 115
+1.46366	A packet is received at Node 1
+1.46366	A packet is received with sequence num 115
+Sequence number error! expected seq num is : 114
+
+1.464	A new packet is sent at Node 0
+m_seq = 116
+1.46766	A packet is received at Node 1
+1.46766	A packet is received with sequence num 116
+Sequence number is correct
+
+1.468	A new packet is sent at Node 0
+m_seq = 117
+1.47166	A packet is received at Node 1
+1.47166	A packet is received with sequence num 117
+Sequence number is correct
+
+1.472	A new packet is sent at Node 0
+m_seq = 118
+
+1.476	A new packet is sent at Node 0
+m_seq = 119
+1.47966	A packet is received at Node 1
+1.47966	A packet is received with sequence num 119
+Sequence number error! expected seq num is : 118
+
+1.48	A new packet is sent at Node 0
+m_seq = 120
+1.48366	A packet is received at Node 1
+1.48366	A packet is received with sequence num 120
+Sequence number is correct
+
+1.484	A new packet is sent at Node 0
+m_seq = 121
+1.48766	A packet is received at Node 1
+1.48766	A packet is received with sequence num 121
+Sequence number is correct
+
+1.488	A new packet is sent at Node 0
+m_seq = 122
+
+1.492	A new packet is sent at Node 0
+m_seq = 123
+
+1.496	A new packet is sent at Node 0
+m_seq = 124
+1.49966	A packet is received at Node 1
+1.49966	A packet is received with sequence num 124
+Sequence number error! expected seq num is : 122
+
+1.5	A new packet is sent at Node 0
+m_seq = 125
+1.50366	A packet is received at Node 1
+1.50366	A packet is received with sequence num 125
+Sequence number is correct
+
+1.504	A new packet is sent at Node 0
+m_seq = 126
+1.50766	A packet is received at Node 1
+1.50766	A packet is received with sequence num 126
+Sequence number is correct
+
+1.508	A new packet is sent at Node 0
+m_seq = 127
+1.51166	A packet is received at Node 1
+1.51166	A packet is received with sequence num 127
+Sequence number is correct
+
+1.512	A new packet is sent at Node 0
+m_seq = 128
+1.51566	A packet is received at Node 1
+1.51566	A packet is received with sequence num 128
+Sequence number is correct
+
+1.516	A new packet is sent at Node 0
+m_seq = 129
+1.51966	A packet is received at Node 1
+1.51966	A packet is received with sequence num 129
+Sequence number is correct
+
+1.52	A new packet is sent at Node 0
+m_seq = 130
+1.52366	A packet is received at Node 1
+1.52366	A packet is received with sequence num 130
+Sequence number is correct
+
+1.524	A new packet is sent at Node 0
+m_seq = 131
+1.52766	A packet is received at Node 1
+1.52766	A packet is received with sequence num 131
+Sequence number is correct
+
+1.528	A new packet is sent at Node 0
+m_seq = 132
+
+1.532	A new packet is sent at Node 0
+m_seq = 133
+1.53566	A packet is received at Node 1
+1.53566	A packet is received with sequence num 133
+Sequence number error! expected seq num is : 132
+
+1.536	A new packet is sent at Node 0
+m_seq = 134
+
+1.54	A new packet is sent at Node 0
+m_seq = 135
+1.54366	A packet is received at Node 1
+1.54366	A packet is received with sequence num 135
+Sequence number error! expected seq num is : 134
+
+1.544	A new packet is sent at Node 0
+m_seq = 136
+1.54766	A packet is received at Node 1
+1.54766	A packet is received with sequence num 136
+Sequence number is correct
+
+1.548	A new packet is sent at Node 0
+m_seq = 137
+1.55166	A packet is received at Node 1
+1.55166	A packet is received with sequence num 137
+Sequence number is correct
+
+1.552	A new packet is sent at Node 0
+m_seq = 138
+1.55566	A packet is received at Node 1
+1.55566	A packet is received with sequence num 138
+Sequence number is correct
+
+1.556	A new packet is sent at Node 0
+m_seq = 139
+1.55966	A packet is received at Node 1
+1.55966	A packet is received with sequence num 139
+Sequence number is correct
+
+1.56	A new packet is sent at Node 0
+m_seq = 140
+1.56366	A packet is received at Node 1
+1.56366	A packet is received with sequence num 140
+Sequence number is correct
+
+1.564	A new packet is sent at Node 0
+m_seq = 141
+1.56766	A packet is received at Node 1
+1.56766	A packet is received with sequence num 141
+Sequence number is correct
+
+1.568	A new packet is sent at Node 0
+m_seq = 142
+1.57166	A packet is received at Node 1
+1.57166	A packet is received with sequence num 142
+Sequence number is correct
+
+1.572	A new packet is sent at Node 0
+m_seq = 143
+1.57566	A packet is received at Node 1
+1.57566	A packet is received with sequence num 143
+Sequence number is correct
+
+1.576	A new packet is sent at Node 0
+m_seq = 144
+1.57966	A packet is received at Node 1
+1.57966	A packet is received with sequence num 144
+Sequence number is correct
+
+1.58	A new packet is sent at Node 0
+m_seq = 145
+
+1.584	A new packet is sent at Node 0
+m_seq = 146
+
+1.588	A new packet is sent at Node 0
+m_seq = 147
+1.59166	A packet is received at Node 1
+1.59166	A packet is received with sequence num 147
+Sequence number error! expected seq num is : 145
+
+1.592	A new packet is sent at Node 0
+m_seq = 148
+1.59566	A packet is received at Node 1
+1.59566	A packet is received with sequence num 148
+Sequence number is correct
+
+1.596	A new packet is sent at Node 0
+m_seq = 149
+1.59966	A packet is received at Node 1
+1.59966	A packet is received with sequence num 149
+Sequence number is correct
+
+1.6	A new packet is sent at Node 0
+m_seq = 150
+1.60366	A packet is received at Node 1
+1.60366	A packet is received with sequence num 150
+Sequence number is correct
+
+1.604	A new packet is sent at Node 0
+m_seq = 151
+1.60766	A packet is received at Node 1
+1.60766	A packet is received with sequence num 151
+Sequence number is correct
+
+1.608	A new packet is sent at Node 0
+m_seq = 152
+1.61166	A packet is received at Node 1
+1.61166	A packet is received with sequence num 152
+Sequence number is correct
+
+1.612	A new packet is sent at Node 0
+m_seq = 153
+
+1.616	A new packet is sent at Node 0
+m_seq = 154
+1.61966	A packet is received at Node 1
+1.61966	A packet is received with sequence num 154
+Sequence number error! expected seq num is : 153
+
+1.62	A new packet is sent at Node 0
+m_seq = 155
+1.62366	A packet is received at Node 1
+1.62366	A packet is received with sequence num 155
+Sequence number is correct
+
+1.624	A new packet is sent at Node 0
+m_seq = 156
+1.62766	A packet is received at Node 1
+1.62766	A packet is received with sequence num 156
+Sequence number is correct
+
+1.628	A new packet is sent at Node 0
+m_seq = 157
+1.63166	A packet is received at Node 1
+1.63166	A packet is received with sequence num 157
+Sequence number is correct
+
+1.632	A new packet is sent at Node 0
+m_seq = 158
+1.63566	A packet is received at Node 1
+1.63566	A packet is received with sequence num 158
+Sequence number is correct
+
+1.636	A new packet is sent at Node 0
+m_seq = 159
+1.63966	A packet is received at Node 1
+1.63966	A packet is received with sequence num 159
+Sequence number is correct
+
+1.64	A new packet is sent at Node 0
+m_seq = 160
+1.64366	A packet is received at Node 1
+1.64366	A packet is received with sequence num 160
+Sequence number is correct
+
+1.644	A new packet is sent at Node 0
+m_seq = 161
+1.64766	A packet is received at Node 1
+1.64766	A packet is received with sequence num 161
+Sequence number is correct
+
+1.648	A new packet is sent at Node 0
+m_seq = 162
+1.65166	A packet is received at Node 1
+1.65166	A packet is received with sequence num 162
+Sequence number is correct
+
+1.652	A new packet is sent at Node 0
+m_seq = 163
+1.65566	A packet is received at Node 1
+1.65566	A packet is received with sequence num 163
+Sequence number is correct
+
+1.656	A new packet is sent at Node 0
+m_seq = 164
+1.65966	A packet is received at Node 1
+1.65966	A packet is received with sequence num 164
+Sequence number is correct
+
+1.66	A new packet is sent at Node 0
+m_seq = 165
+1.66366	A packet is received at Node 1
+1.66366	A packet is received with sequence num 165
+Sequence number is correct
+
+1.664	A new packet is sent at Node 0
+m_seq = 166
+1.66766	A packet is received at Node 1
+1.66766	A packet is received with sequence num 166
+Sequence number is correct
+
+1.668	A new packet is sent at Node 0
+m_seq = 167
+1.67166	A packet is received at Node 1
+1.67166	A packet is received with sequence num 167
+Sequence number is correct
+
+1.672	A new packet is sent at Node 0
+m_seq = 168
+1.67566	A packet is received at Node 1
+1.67566	A packet is received with sequence num 168
+Sequence number is correct
+
+1.676	A new packet is sent at Node 0
+m_seq = 169
+1.67966	A packet is received at Node 1
+1.67966	A packet is received with sequence num 169
+Sequence number is correct
+
+1.68	A new packet is sent at Node 0
+m_seq = 170
+1.68366	A packet is received at Node 1
+1.68366	A packet is received with sequence num 170
+Sequence number is correct
+
+1.684	A new packet is sent at Node 0
+m_seq = 171
+1.68766	A packet is received at Node 1
+1.68766	A packet is received with sequence num 171
+Sequence number is correct
+
+1.688	A new packet is sent at Node 0
+m_seq = 172
+1.69166	A packet is received at Node 1
+1.69166	A packet is received with sequence num 172
+Sequence number is correct
+
+1.692	A new packet is sent at Node 0
+m_seq = 173
+1.69566	A packet is received at Node 1
+1.69566	A packet is received with sequence num 173
+Sequence number is correct
+
+1.696	A new packet is sent at Node 0
+m_seq = 174
+
+1.7	A new packet is sent at Node 0
+m_seq = 175
+1.70366	A packet is received at Node 1
+1.70366	A packet is received with sequence num 175
+Sequence number error! expected seq num is : 174
+
+1.704	A new packet is sent at Node 0
+m_seq = 176
+1.70766	A packet is received at Node 1
+1.70766	A packet is received with sequence num 176
+Sequence number is correct
+
+1.708	A new packet is sent at Node 0
+m_seq = 177
+1.71166	A packet is received at Node 1
+1.71166	A packet is received with sequence num 177
+Sequence number is correct
+
+1.712	A new packet is sent at Node 0
+m_seq = 178
+
+1.716	A new packet is sent at Node 0
+m_seq = 179
+1.71966	A packet is received at Node 1
+1.71966	A packet is received with sequence num 179
+Sequence number error! expected seq num is : 178
+
+1.72	A new packet is sent at Node 0
+m_seq = 180
+1.72366	A packet is received at Node 1
+1.72366	A packet is received with sequence num 180
+Sequence number is correct
+
+1.724	A new packet is sent at Node 0
+m_seq = 181
+1.72766	A packet is received at Node 1
+1.72766	A packet is received with sequence num 181
+Sequence number is correct
+
+1.728	A new packet is sent at Node 0
+m_seq = 182
+1.73166	A packet is received at Node 1
+1.73166	A packet is received with sequence num 182
+Sequence number is correct
+
+1.732	A new packet is sent at Node 0
+m_seq = 183
+
+1.736	A new packet is sent at Node 0
+m_seq = 184
+1.73966	A packet is received at Node 1
+1.73966	A packet is received with sequence num 184
+Sequence number error! expected seq num is : 183
+
+1.74	A new packet is sent at Node 0
+m_seq = 185
+
+1.744	A new packet is sent at Node 0
+m_seq = 186
+1.74766	A packet is received at Node 1
+1.74766	A packet is received with sequence num 186
+Sequence number error! expected seq num is : 185
+
+1.748	A new packet is sent at Node 0
+m_seq = 187
+
+1.752	A new packet is sent at Node 0
+m_seq = 188
+1.75566	A packet is received at Node 1
+1.75566	A packet is received with sequence num 188
+Sequence number error! expected seq num is : 187
+
+1.756	A new packet is sent at Node 0
+m_seq = 189
+1.75966	A packet is received at Node 1
+1.75966	A packet is received with sequence num 189
+Sequence number is correct
+
+1.76	A new packet is sent at Node 0
+m_seq = 190
+1.76366	A packet is received at Node 1
+1.76366	A packet is received with sequence num 190
+Sequence number is correct
+
+1.764	A new packet is sent at Node 0
+m_seq = 191
+1.76766	A packet is received at Node 1
+1.76766	A packet is received with sequence num 191
+Sequence number is correct
+
+1.768	A new packet is sent at Node 0
+m_seq = 192
+1.77166	A packet is received at Node 1
+1.77166	A packet is received with sequence num 192
+Sequence number is correct
+
+1.772	A new packet is sent at Node 0
+m_seq = 193
+
+1.776	A new packet is sent at Node 0
+m_seq = 194
+1.77966	A packet is received at Node 1
+1.77966	A packet is received with sequence num 194
+Sequence number error! expected seq num is : 193
+
+1.78	A new packet is sent at Node 0
+m_seq = 195
+
+1.784	A new packet is sent at Node 0
+m_seq = 196
+1.78766	A packet is received at Node 1
+1.78766	A packet is received with sequence num 196
+Sequence number error! expected seq num is : 195
+
+1.788	A new packet is sent at Node 0
+m_seq = 197
+1.79166	A packet is received at Node 1
+1.79166	A packet is received with sequence num 197
+Sequence number is correct
+
+1.792	A new packet is sent at Node 0
+m_seq = 198
+1.79566	A packet is received at Node 1
+1.79566	A packet is received with sequence num 198
+Sequence number is correct
+
+1.796	A new packet is sent at Node 0
+m_seq = 199
+1.79966	A packet is received at Node 1
+1.79966	A packet is received with sequence num 199
+Sequence number is correct

@@ -18,15 +18,19 @@ static void PacketRx (Ptr<const Packet> p)
 }
 
 static uint16_t latest_seq = -1;
+// Trace Packet sequence number to check packet loss
 static void PacketErr (Ptr<const Packet> p, Week4Header &h) 
 {
 	NS_LOG_UNCOND (Simulator::Now().GetSeconds() << "\t" << "A packet is received with sequence num " << std::to_string(h.GetSeq()));
+	// Expected sequence number is latest seq num + 1. else, packet loss occured
 	if ((++latest_seq) != h.GetSeq()) {
 		NS_LOG_UNCOND("Sequence number error! expected seq num is : " << std::to_string(latest_seq));
 	}
+	// Correctly received packet!
 	else {
 		NS_LOG_UNCOND("Sequence number is correct");
 	}
+	// Update latest seq num
 	latest_seq = h.GetSeq();
 }
 

@@ -24,12 +24,15 @@ TypeId Week4Header::GetInstanceTypeId (void) const
 
 void Week4Header::Serialize (Buffer::Iterator start) const
 {	
+	// Write 16 bits for sequence number
 	start.WriteHtonU16(m_seq);
+	// Write 64 bits for time
 	start.WriteHtonU64(m_time);
 }
 
 uint32_t Week4Header::GetSerializedSize (void) const
-{
+{	
+	// seq_num + time = 10bytes
 	return 10;
 }
 
@@ -67,9 +70,11 @@ uint64_t Week4Header::GetTime(void) const
 }
 
 void Week4Header::SetSeq(uint16_t seq) {
+	// Set m_seq as argument 
 	m_seq = seq;
 }
 
 uint16_t Week4Header::GetSeq(void) const {
+	// return m_seq;
 	return m_seq;
 }

@@ -33,11 +33,13 @@ MyApp::GetTypeId (void) {
                    MakeDataRateChecker ())
 		.AddTraceSource("Tx", "A new packet is created and is sent", MakeTraceSourceAccessor(&MyApp::m_txTrace),"ns3::Packet::TracedCallback")
 		.AddTraceSource("Rx", "A packet has been received", MakeTraceSourceAccessor (&MyApp::m_rxTrace),"ns3::Packet::TracedCallback")
+		// Add trace source. This value will trace sequence number in header field. So, we can check if there are packet loss event.
 		.AddTraceSource("Err", "A packet has error header", MakeTraceSourceAccessor(&MyApp::m_errTrace), "ns3::Packet::TracedCallback")
  ;
   return tid;
 }
 
+// Initialize private values
 MyApp::MyApp () 
 	: m_socket (0),
 		m_packetSize (1000),
@@ -59,7 +61,7 @@ MyApp::StartApplication (void)
 
 	if(m_mode == true)
 	{	
-		// Sender initialize sequence number as 0;
+		// Sender initialize sequence number as -1, because we will first ++ seq_num and send.
 		seq_num = -1;
 		
 		if(!m_socket){
@@ -91,13 +93,16 @@ void
 MyApp::StopApplication ()
 {
   NS_LOG_FUNCTION (this);
+	// Set state as not running
 	m_running = false;
 	if(m_sendEvent.IsRunning())
 	{
+	// Cancel send
   	Simulator::Cancel (m_sendEvent);
 	}
 	if(m_socket)
 	{
+	// close scoket
 		m_socket->Close();
 	}
 }
@@ -115,6 +120,7 @@ MyApp::SendPacket (void)
 	// In class work
 	header.SetTime();
 	header.Print(std::cout);
+	// Set header 
 	packet->AddHeader(header);
 
 	m_socket->Send(packet);
@@ -148,10 +154,12 @@ MyApp::HandleRead (Ptr<Socket> socket)
 			Week4Header header;
 			packet->RemoveHeader(header);
 
+			// In receiver node, Get sequence number and set m_seq to check if there are packet loss 
 			seq_num = header.GetSeq();
 			// std::cout << "Receive header = " << seq_num << std::endl;
 
 			m_rxTrace(packet);
+			// packet error check trace source.
 			m_errTrace(packet, header);
 		}
 	}
